@@ -34,7 +34,6 @@ import {
     withAuthUserTokenSSR,
     AuthAction,
 } from 'next-firebase-auth'
-import getAbsoluteURL from '../utils/getAbsoluteURL'
 import firebase from 'firebase/app'
 import 'firebase/firestore'
 
